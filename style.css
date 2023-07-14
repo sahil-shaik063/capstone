@@ -1,0 +1,48 @@
+.title{
+    background-color:#30A2FF;
+}
+.image{
+    max-height: 720px;
+}    
+  .photo{
+     border-radius: 50%;
+  }
+  h1{
+    font-family: 'Lumanosimo', cursive;
+  }
+  #iden1{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .sk{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .para{
+    font-size: 30px;
+  }
+  .skills{
+    background-color:#00C4FF
+  }
+  .typing{
+   
+    display:flex;
+    flex-direction: column ;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .parent{
+    display:flex;
+    flex-direction: row ;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .footer{
+    background-color: #FFF5B8;
+  }
+ .f{
+   background-color: #FFE7A0;
+  }
